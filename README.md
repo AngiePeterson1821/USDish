@@ -1,0 +1,2 @@
+# USDish
+automation for USDish
